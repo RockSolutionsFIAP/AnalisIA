@@ -20,6 +20,6 @@ Analisar automaticamente reclamações da Vivo extraídas do ReclameAqui e gerar
 ## Membros da equipe
 * Kayque Carvalho
 * Francisco Vargas
-* nome
-* nome
-* nome
+* Matheus Parra 
+* Rafael
+* Samuel Aguiar
